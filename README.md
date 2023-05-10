@@ -1,8 +1,9 @@
 # bloc_example
 
-A new Flutter project.
+Android sharing session (10 May 2023).
 
-![bloc](https://github.com/hendi-2020/bloc-flutter/assets/71244208/cf572dd5-9129-464c-8039-340374fca09f)
+![bloc](https://github.com/hendi-2020/bloc-flutter/assets/71244208/290e47be-a1f5-44a3-98dc-b977a1d7c8f2)
+
 
 ## Getting Started
 
